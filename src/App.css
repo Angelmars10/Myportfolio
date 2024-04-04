@@ -14,8 +14,6 @@
   font-weight: 400;
 }
 
-/* --------------Defualt------------- */
-
 * {
   margin: 0;
   padding: 0;
@@ -82,7 +80,6 @@ p.danger {
 	color: red;
 }
 
-/************ Navbar Css ************/
 nav.navbar {
   padding: 18px 0;
   position: fixed;
@@ -231,7 +228,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 	border-color: transparent;
 }
 
-/* ---------------banner--------------- */
 
 .banner {
   margin-top: 0;
@@ -296,8 +292,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     width: 4%;
   }
 
-  /* ---------------Skills----------- */
-
   .skill {
     padding: 0 0 50px 0;
     position: relative;
@@ -336,8 +330,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     width: 40%;
     z-index: -4;
   }
-
-  /* ------------Project-------- */
 
   .project {
     padding: 80px 0;
@@ -463,8 +455,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     right: 0;
     z-index: -4;
   }
-  
-  /* -------Contact------- */
   .contact {
     background: linear-gradient(90.21deg, #AA367C  -5.91%,  #4A2FBD 111.58%);
     padding: 60px 0 200px 0;
@@ -535,8 +525,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   .contact form button:hover::before {
     width: 100%;
   }
-
-  /* -------footer------- */
 
   .footer {
     padding: 0 0 50px 0;
